@@ -1,0 +1,87 @@
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/appsettings.Development.json
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/appsettings.json
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/TodosWebAP.deps.json
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/TodosWebAP.runtimeconfig.json
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/TodosWebAP.runtimeconfig.dev.json
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/TodosWebAP.dll
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/ref/TodosWebAP.dll
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/TodosWebAP.pdb
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.csproj.AssemblyReference.cache
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.AssemblyInfoInputs.cache
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.AssemblyInfo.cs
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.csproj.CoreCompileInputs.cache
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.MvcApplicationPartsAssemblyInfo.cs
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.MvcApplicationPartsAssemblyInfo.cache
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/staticwebassets/TodosWebAP.StaticWebAssets.Manifest.cache
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/staticwebassets/TodosWebAP.StaticWebAssets.xml
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/scopedcss/bundle/TodosWebAP.styles.css
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.RazorTargetAssemblyInfo.cache
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.csproj.CopyComplete
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.dll
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/ref/TodosWebAP.dll
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.pdb
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/obj/Debug/net5.0/TodosWebAP.genruntimeconfig.cache
+/Users/lennartsargezian/RiderProjects/TodosWebAP/TodosWebAP/bin/Debug/net5.0/todos.json
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/appsettings.Development.json
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/appsettings.json
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/todos.json
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/TodosWebAP.deps.json
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/TodosWebAP.runtimeconfig.json
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/TodosWebAP.runtimeconfig.dev.json
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/TodosWebAP.dll
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/ref/TodosWebAP.dll
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/TodosWebAP.pdb
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.csproj.AssemblyReference.cache
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.AssemblyInfoInputs.cache
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.AssemblyInfo.cs
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.csproj.CoreCompileInputs.cache
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.MvcApplicationPartsAssemblyInfo.cs
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.MvcApplicationPartsAssemblyInfo.cache
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/staticwebassets/TodosWebAP.StaticWebAssets.Manifest.cache
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/staticwebassets/TodosWebAP.StaticWebAssets.xml
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/scopedcss/bundle/TodosWebAP.styles.css
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.RazorTargetAssemblyInfo.cache
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.csproj.CopyComplete
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.dll
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/ref/TodosWebAP.dll
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.pdb
+/Users/lennartsargezian/Desktop/TodosWebAP 2/TodosWebAP/obj/Debug/net5.0/TodosWebAP.genruntimeconfig.cache
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/appsettings.Development.json
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/appsettings.json
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/todos.json
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/TodosWebAP.deps.json
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/TodosWebAP.runtimeconfig.json
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/TodosWebAP.runtimeconfig.dev.json
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/TodosWebAP.dll
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/ref/TodosWebAP.dll
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/TodosWebAP.pdb
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.csproj.AssemblyReference.cache
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.AssemblyInfoInputs.cache
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.AssemblyInfo.cs
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.csproj.CoreCompileInputs.cache
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.MvcApplicationPartsAssemblyInfo.cs
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.MvcApplicationPartsAssemblyInfo.cache
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/staticwebassets/TodosWebAP.StaticWebAssets.Manifest.cache
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/staticwebassets/TodosWebAP.StaticWebAssets.xml
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/scopedcss/bundle/TodosWebAP.styles.css
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.RazorTargetAssemblyInfo.cache
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.csproj.CopyComplete
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.dll
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/ref/TodosWebAP.dll
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.pdb
+/Users/lennartsargezian/Desktop/TodosWebAP-master/TodosWebAP/obj/Debug/net5.0/TodosWebAP.genruntimeconfig.cache
